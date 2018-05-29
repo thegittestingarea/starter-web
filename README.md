@@ -17,3 +17,7 @@ Ths is a simple project, deployment can be any web server or even local
 file system.
 
 ## How to contribute
+
+## Copyright
+Copyright notice.
+
