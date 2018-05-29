@@ -23,5 +23,5 @@ Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 
-Copyright notice.
+Copyright notice.All rights reserved
 
