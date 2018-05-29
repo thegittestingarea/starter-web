@@ -1,7 +1,6 @@
 # Starter Web Project
 
-This is a simple website project. Adding a line for rebasing example, then more changes 
-from myfeature too.
+This is a simple website project. Emergency fix after a stash.
 
 ## Introduction
 
